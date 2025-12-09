@@ -1,2 +1,4 @@
 # python-learning
-Learning python
+print("Hello world")
+Just learning Python:)
+
