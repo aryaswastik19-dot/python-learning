@@ -1,8 +1,8 @@
 # My first Python program:
 # print() function
 
-print("I like Pizza")
-print("It's really good")
+print("Hello Worl")
+print("My first Python program")
 
 # Variables - A container for a value (string, integer, float, boolean)
 #             A variable behaves as if it was the value it contains
@@ -54,3 +54,4 @@ if is_online:
     print("Online")
 else:
     print("Offline")
+
