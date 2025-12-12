@@ -1,7 +1,7 @@
 # My first Python program:
 # print() function
 
-print("Hello Worl")
+print("Hello World")
 print("My first Python program")
 
 # Variables - A container for a value (string, integer, float, boolean)
@@ -54,4 +54,5 @@ if is_online:
     print("Online")
 else:
     print("Offline")
+
 
